@@ -1,0 +1,15 @@
+{
+  "name": "v/test",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "chloe",
+      "email": "email@example.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
